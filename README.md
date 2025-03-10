@@ -1,4 +1,10 @@
 # Hospitality-Analytics-
+Domain/Function: Hospitality / Hotel Chain Business
+
+AtliQ Grands is losing market share and revenue due to competition and management choices. This project uses hospitality analytics to help turn things around by tracking key metrics like ADR, RevPAR, and Occupancy%, allowing better decision-making.
+
+
+
 Project Details
 Project Goal: This project focuses on increasing AtliQ Grands' market share and revenue in the luxury hotel industry. By using data-driven strategies and business intelligence, the company aims to stay ahead of competitors and improve decision-making.
 
